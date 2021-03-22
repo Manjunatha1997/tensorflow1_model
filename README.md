@@ -2,8 +2,7 @@
 
 # tensorflow_notebooks
 
-# Tensorflow version1 (Copy_of_fm_object_detection)
-# steps for Tensorflow 1
+# steps for Object detection using tensorflow version1 in google colab
 
 Step1:
 =======
